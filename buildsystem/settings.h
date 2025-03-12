@@ -3,8 +3,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define NULL (void*)0
-
 #define I686_GCC "i686-elf-gcc"
 #define I686_GPP "i686-elf-g++"
 #define I686_LD  "i686-elf-ld"
